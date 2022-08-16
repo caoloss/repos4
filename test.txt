@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is ACD5-9540
+
+ Directory of C:\Users\fcher\OneDrive\Documents\myproject
+
+08/16/2022  11:12 AM    <DIR>          .
+08/16/2022  10:35 AM    <DIR>          ..
+08/16/2022  11:12 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  260,583,600,128 bytes free
